@@ -20,7 +20,7 @@ timestamp,accX,accY,accZ
 80,4.653879991315310,2.6865938301637800,-19.98305510341230
 ```
 
-If you have a single, multi-axis reading that is not a time series, you can omit the timestamp. Here is an example from a singhle triple-axis accelerometer:
+If you have a single, multi-axis reading that is not a time series, you can omit the timestamp. Here is an example from a single triple-axis accelerometer:
 
 ```
 accX,accY,accZ
