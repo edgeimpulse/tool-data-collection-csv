@@ -1,5 +1,5 @@
 /**
- * Magic Wand Data Collection
+ * Magic Wand Data Collection (on button press)
  * 
  * Attach button to pin 2. Press button to start collection. Raw x, y, z 
  * acceleration data (in G) and x, y, z, rotational (gyroscope) data (in 
