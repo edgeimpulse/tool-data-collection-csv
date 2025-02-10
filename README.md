@@ -66,7 +66,3 @@ In the Edge Impulse Studio, create a new project. Go to the **Data acquisition**
 Go back to **Data acquisition** to view your data.
 
 ![View CSV data uploaded to Edge Impulse](./images/edge-impulse-upload-csv.png)
-
-## License
-
-Unless otherwise specified, all code is licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
